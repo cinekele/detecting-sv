@@ -1,4 +1,4 @@
 data
-output
+output/*.bcf*
 samtools-1.11
 delly_v0.8.7*
